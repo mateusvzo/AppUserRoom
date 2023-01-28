@@ -5,4 +5,6 @@
     <string name="masculine">Masculino</string>
     <string name="feminine">Feminino</string>
     <string name="save">Salvar</string>
+    <string name="loading">Loading...</string>
+    <string name="gender">sexo</string>
 </resources>

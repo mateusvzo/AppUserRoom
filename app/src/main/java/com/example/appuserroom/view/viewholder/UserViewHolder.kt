@@ -8,5 +8,11 @@ class UserViewHolder(private val bind: RowUserBinding) : RecyclerView.ViewHolder
 
     fun bind(user: UserModel) {
         bind.textName.text = user.name
+        if (user.gender) {
+            bind.textGender.text = "(masculino)"
+        } else {
+            bind.textGender.text = "(feminino)"
+        }
+
     }
 }
