@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppUserRoom</string>
+    <string name="users">Usuários</string>
+    <string name="user_add">Adicionar</string>
+    <string name="masculine">Masculino</string>
+    <string name="feminine">Feminino</string>
+    <string name="save">Salvar</string>
+</resources>
